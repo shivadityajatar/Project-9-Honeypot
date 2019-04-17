@@ -86,9 +86,11 @@ The following tables showcase statistics provided by MHN in the admin page.
 1. amun (9 attacks)
 2. snort (2 attacks)
 
-## Lastly, file [session1.json](./session1.json) contains all the data collected by Dionaea. And file [session2.json](./session2.json) contains all the data collected by amun and snort.
+#### Lastly, file [session1.json](./session1.json) contains all the data collected by Dionaea. And file [session2.json](./session2.json) contains all the data collected by amun and snort.
 
+## Any unresolved questions raised by the data collected
 
+No such unresolved issue or question raised by the data collected. If more wait time was possible more number of attacks could have been observed for `amun` and `snort`.
 
 ## Resources
 
