@@ -27,7 +27,7 @@ These are the honeypots I deployed:
 ## Any issues you encountered
 
 The issues I encountered were mostly related to setting up of the the Virtual Machines. Since this assignment was somewhat abstract, I faced a lot of issues, such as nginx page showing (MHN homepage not loaded), no traffic on the Attack page, unable to download files, issues setting up, etc. 
-I had to manually install a package `$ sudo pip install hpfeeds-threatstream==1.1` while SSH'd into the admin VM. Also I had to reset the VM multiple time and add additional firewall rules. After multiple attempts and installing mhn 2-3 times I was able to solve the issues eventually and run it successfully.
+I had to manually install a package `$ sudo pip install hpfeeds-threatstream==1.1` while SSH'd into the admin VM. Also I had to reset the VM multiple times and add additional firewall rules. After multiple attempts and installing mhn 2-3 times I was able to solve the issues eventually and run it successfully.
 
 ## Data Collected 
 
