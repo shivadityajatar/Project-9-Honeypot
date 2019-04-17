@@ -69,7 +69,7 @@ The following tables showcase statistics provided by MHN in the admin page.
 |:---:|:--:|:--------:|:-------:|
 | 1 | 89.248.168.51 | Seychelles | 1 |
 | 2 | 223.87.241.20 | China |1 |
-| 3 | 81.22.45.231 | Tor Network | 1 |
+| 3 | 81.22.45.231 | Unknown Network | 1 |
 | 4 | 80.44.65.196 | U.K | 1 |
 | 5 | 217.58.65.187 | Italy| 1 |
 
