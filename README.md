@@ -33,6 +33,8 @@ I had to manually install a package `$ sudo pip install hpfeeds-threatstream==1.
 
 The following tables showcase statistics provided by MHN in the admin page.
 
+#### FOR DIONAEA (I configured this separately from amun and snort)
+
 * Attacks in last 24 hours: 1278
 
 
@@ -90,7 +92,7 @@ The following tables showcase statistics provided by MHN in the admin page.
 
 ## Any unresolved questions raised by the data collected
 
-No such unresolved issue or question raised by the data collected. If more wait time was possible more number of attacks could have been observed for `amun` and `snort`.
+No such unresolved issue or question raised by the data collected so far. If more wait time was given/possible more number of attacks could have been observed for `amun` and `snort`.
 
 ## Resources
 
